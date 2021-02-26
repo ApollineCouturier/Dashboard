@@ -33,7 +33,7 @@ When you are login you will arrive on the Dashboard page.
 
 First for having the widget you want click on the menu burger or on the add button (square pink)
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/DashBoardHomeMod.PNG)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/DashBoardHomeMod.PNG)
 
 (square red) show the menu in left
 
@@ -41,7 +41,7 @@ First for having the widget you want click on the menu burger or on the add butt
 
 For activate the widget you want press on the switch button
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/SettingActivateMod.png)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/SettingActivateMod.png)
 
 and for returning to the Dashboard press the Home button
 
@@ -68,15 +68,15 @@ Imgur*:
 ------
 
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/lOGINiMGUR.PNG)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/lOGINiMGUR.PNG)
 
 -See the Image from the feed
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/ActualityFeedImgut.PNG)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/ActualityFeedImgut.PNG)
 
 -See the Image you have in you favorite
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/ImgurFavorite.PNG)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/ImgurFavorite.PNG)
 
 Facebook*:
 ---------
@@ -84,47 +84,47 @@ Facebook*:
 
 (only the friends who allowed you to see their profil)
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/ListFacebook.png)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/ListFacebook.png)
 
 -Paypal*:
 ---------
 -Pay a coffee with your account
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/PaypalSplash.PNG)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/PaypalSplash.PNG)
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/PaypalPayment.PNG)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/PaypalPayment.PNG)
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/PaypalHome.PNG)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/PaypalHome.PNG)
 
 -OpenWeather: (Weather)
 -----------------------
 -Search the city you want to see the weather
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/Weather.png)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/Weather.png)
 
 -News API: (News)
 -----------------
 -Search the news you want
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/NewsSearch.png)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/NewsSearch.png)
 
 -See the articles
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/NewsDetails.png)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/NewsDetails.png)
 
 -List of the news which have been posted sorted by time of publication
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/News.png)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/News.png)
 
 -Corona Lmao Ninja : (Covid)
 ----------------------------
 -See the situation all around the world about the situation of the covid
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/AllWorldCovid.png)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/AllWorldCovid.png)
 
 -Search the country you want to see the situation about the covid
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/CountryCovid.png)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/CountryCovid.png)
 
 -MovieDB : (Theater)
 --------------------
@@ -148,6 +148,6 @@ For Series:
 
 -See TV Top Rated and their details (image, name, rate, description)
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/TheaterHome.png)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/TheaterHome.png)
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/TheaterDetails.png)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/TheaterDetails.png)
