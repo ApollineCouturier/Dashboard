@@ -21,9 +21,9 @@ How Does it works ?:
 
 First you have to login or register if you don't have an account:
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/Register.png)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/Register.png)
 
-![ScreenShot](https://github.com/EpitechIT2020/B-DEV-500-BDX-5-1-cardgames-olivier.gurses/blob/master/RessourcesDoc/LoginMod.png)
+![ScreenShot](https://github.com/ApollineCouturier/Dashboard/blob/main/RessourcesDoc/LoginMod.png)
 
 (square red) to go to the register page
 
